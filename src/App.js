@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-// import './index.css';
 
 const App = () => {
 
@@ -10,7 +9,7 @@ const App = () => {
 					<button className="menuBtn menuBtn--toggle">
 						<span className="material-symbols-outlined iconPart">zoom_out_map</span>
 					</button>
-					<button className="menuBtn menuBtn--profile"></button>
+					<button className="menuBtn menuBtn--profile"><img src="imageFile/illust_small.png" alt=""/></button>
 				</div>
 			</header>
 			<div className="contentUnit">
