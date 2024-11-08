@@ -60,9 +60,7 @@
 				}
 			}
 			.arrowSide { display: flex; flex-direction: column; justify-content: center; gap: 1vw;
-				.controlBtn { display: grid; place-content: center; padding: 0; width: 50px; aspect-ratio: 1/1; background-color: rgba(0,0,0,.025); border-radius: 50%;
-					.iconPart {  }
-				}
+				.controlBtn { display: grid; place-content: center; padding: 0; width: 50px; aspect-ratio: 1/1; background-color: rgba(0,0,0,.025); border-radius: 50%; }
 			}
 		}
 	}
